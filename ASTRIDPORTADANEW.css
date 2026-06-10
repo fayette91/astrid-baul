@@ -1,0 +1,42 @@
+
+.ast-ba-bx {width: 600px; height: 650px; margin: auto; position: relative; border: 10px solid #333; outline: 1px solid #943131; outline-offset: -8px; overflow: hidden; transition: all ease-in-out 0.7s; background: #222}
+
+.ast-ba-bx img {width: 600px; height: 758px; margin: auto; transition: all ease-in-out 0.7s; filter: brightness(50%)}
+
+.ast-ba-bx:hover {transition: all ease-in-out 0.7s;}
+
+.ast-ba-bx:hover img {transition: all ease-in-out 0.7s; filter: grayscale(1) brightness(50%)}
+
+.ast-ba-color {width: 600px; height: 760px; margin: -760px 0px 0px 0px; position: absolute; background: #943131; mix-blend-mode: multiply; transition: all ease-in-out 0.7s; opacity: 0}
+
+.ast-ba-bx:hover .ast-ba-color {transition: all ease-in-out 0.7s; opacity: 1}
+
+.ast-ba-flx {width: 560px; height: 50px; margin: -762px 0px 0px 0px; background: #111; position: absolute; padding: 20px; display: flex; flex-wrap: wrap}
+
+.ast-b-ic {width: 50px; height: 50px; padding: 10px; margin: auto; color: #943131; font-size: 20px; transition: all ease-in-out 0.5s}
+
+.ast-b-ic a {text-decoration: none; color: #943131}
+
+.ast-b-ic:hover {font-size: 30px; transition: all ease-in-out 0.5s;}
+
+.ast-ba-name {width: 600px; height: auto; margin: -230px 0px 0px 0px; position: absolute; font-family: millgary; text-align: center; font-size: 50px; font-weight: bold; color: gainsboro; text-shadow: 3px 1px 1px #943131; font-style: italic; transition: all ease-in-out 0.9s; transition-delay: 0.9s}
+
+.ast-ba-frase {width: 400px; height: auto; padding: 10px; position: absolute; margin: -190px 0px 0px 10px; font-size: 10px; font-family: noto sans mono; color: white; text-transform: uppercase; letter-spacing: 2px; line-height: 150%; transition: all ease-in-out 0.9s; transition-delay: 0.9s}
+
+.ast-ba-bx:hover .ast-ba-name {transition: all ease-in-out 0.9s; margin: -650px 0px 0px 0px; transition-delay: 1.0s}
+
+.ast-ba-bx:hover .ast-ba-frase {transition: all ease-in-out 0.9s; margin: -610px 0px 0px 10px; transition-delay: 1.0s}
+
+.ast-ba-caja {width: 580px; height: 440px; margin: 0px 0px 0px 10px; position: absolute; background: rgb(0, 0, 0, .7); display: flex; flex-wrap: wrap; transition: all ease-in-out 1.0s;}
+
+.ast-ba-inf {width: 200px; height: auto; margin: auto; padding: 0px; margin-top: 30px}
+
+.trdts {width: 200px; height: auto; padding: 10px; font-family: noto sans mono; font-size: 10px; text-transform: uppercase; color: gainsboro; letter-spacing: 1px; margin-top: 0px}
+
+.trdts span {background: #943131}
+
+.ast-ba-info {width: 230px; height: auto; margin: auto; font-size: 10px; font-family: noto sans mono; color: gainsboro; letter-spacing: 1px; line-height: 150%; text-align: justify; margin-left: -10px; margin-top: 30px; text-transform: uppercase;}
+
+.ast-ba-info span {font-size: 14px; color: #943131; font-weight: bold}
+
+.ast-ba-bx:hover .ast-ba-caja {transtion: all ease-in-out 0.9s; transition-delay: 1.5s; margin: -560px 0px 0px 10px}
