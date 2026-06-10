@@ -1,0 +1,59 @@
+.ast-cr-bx {width: 600px; height: 650px; margin: auto; position: relative; border: 10px solid #333; outline: 1px solid #943131; outline-offset: -8px; background: url(https://i.pinimg.com/1200x/49/23/19/49231953568db559e329d91b31b77842.jpg); background-size: 100%}
+
+.ast-cr-tit {width: 510px; height: 50px; margin: 0px 0px 0px 0px; position: absolute; background: #111; padding: 20px; font-family: millgary; font-size: 50px; font-weight: bold; text-align: right; letter-spacing: 5px; color: #943131; border-left: 50px solid #943131; font-style: italic;}
+
+.ast-cr-tit span {color: #ccc}
+
+.ast-cr-caja {width: 560px; height: 530px; position: absolute; margin: 100px 0px 0px 10px; background: transparent; overflow: auto; padding: 10px}
+
+.ast-cr-caja::-webkit-scrollbar {background: #000!important; width: 4px}
+
+.ast-cr-bx {width: 600px; height: 650px; margin: auto; position: relative; border: 10px solid #333; outline: 1px solid #943131; outline-offset: -8px; background: url(https://i.pinimg.com/1200x/49/23/19/49231953568db559e329d91b31b77842.jpg); background-size: 100%}
+
+.ast-cr-tit {width: 510px; height: 50px; margin: 0px 0px 0px 0px; position: absolute; background: #111; padding: 20px; font-family: millgary; font-size: 50px; font-weight: bold; text-align: right; letter-spacing: 5px; color: #943131; border-left: 50px solid #943131; font-style: italic;}
+
+.ast-cr-tit span {color: #ccc}
+
+.ast-cr-caja {width: 560px; height: 530px; position: absolute; margin: 100px 0px 0px 10px; background: transparent; overflow: auto; padding: 10px}
+
+.ast-cr-caja::-webkit-scrollbar{background: #000; width: 4px; border: none}
+
+.ast-cr-bx {width: 600px; height: 650px; margin: auto; position: relative; border: 10px solid #333; outline: 1px solid #943131; outline-offset: -8px; background: url(https://i.pinimg.com/1200x/49/23/19/49231953568db559e329d91b31b77842.jpg); background-size: 100%}
+
+.ast-cr-tit {width: 510px; height: 50px; margin: 0px 0px 0px 0px; position: absolute; background: #111; padding: 20px; font-family: millgary; font-size: 50px; font-weight: bold; text-align: right; letter-spacing: 5px; color: #943131; border-left: 50px solid #943131; font-style: italic;}
+
+.ast-cr-tit span {color: #ccc}
+
+.ast-cr-caja {width: 560px; height: 530px; position: absolute; margin: 100px 0px 0px 10px; background: transparent; overflow: auto; padding: 10px}
+
+.ast-cr-caja::-webkit-scrollbar{background: #000; width: 2px; border: none}
+
+.ast-cr-bx {width: 600px; height: 650px; margin: auto; position: relative; border: 10px solid #333; outline: 1px solid #943131; outline-offset: -8px; background: url(https://i.pinimg.com/1200x/49/23/19/49231953568db559e329d91b31b77842.jpg); background-size: 100%}
+
+.ast-cr-tit {width: 510px; height: 50px; margin: 0px 0px 0px 0px; position: absolute; background: #111; padding: 20px; font-family: millgary; font-size: 50px; font-weight: bold; text-align: right; letter-spacing: 5px; color: #943131; border-left: 50px solid #943131; font-style: italic;}
+
+.ast-cr-tit span {color: #ccc}
+
+.ast-cr-caja {width: 560px; height: 530px; position: absolute; margin: 100px 0px 0px 10px; background: transparent; overflow: auto; padding: 10px}
+
+.ast-cr-caja::-webkit-scrollbar{background: #000; width: 4px!important; border: none}
+
+.ast-cr-caja::-webkit-scrollbar-thumb{background: #943131!important; border: 1px solid #000}
+
+.ast-caja {width: 520px; height: auto; margin: auto; background: rgb(0, 0, 0, .5); padding: 10px; outline: 1px solid #222; margin-left: 0px; margin-top: 20px}
+
+.ast-month {width: auto; height: auto; padding: 10px; margin: auto; font-size: 30px; font-family: millgary; font-weight: bold; color: #943131; letter-spacing: 2px; border-bottom: 1px solid #333}
+
+.ast-cr-open {width: auto; height: auto; padding: 15px; margin: auto; background: #0a0a0a; font-family: noto sans mono; color: #ccc; text-transform: uppercase; font-size: 9px; margin-top: 2px; line-height: 100%}
+
+.ast-cr-open a {text-decoration: none; color: #943131!important; font-family: millgary; font-size: 12px; letter-spacing: 1px}
+
+.ast-cr-open i {width: 20px; height: 20px; font-size: 15px; padding: 5px; text-align: center}
+
+.ast-cr-close {width: auto; height: auto; padding: 15px; margin: auto; background: #000; font-family: noto sans mono; color: #555; text-transform: uppercase; font-size: 9px; margin-top: 0px; font-weight: bold; line-height: 100%}
+
+.ast-cr-close a {text-decoration: none; color: #555!important; font-family: millgary; font-size: 11px; letter-spacing: 1px}
+
+.ast-cr-close i {width: 20px; height: 20px; font-size: 18px; padding: 5px; text-align: center; color: #555}
+
+

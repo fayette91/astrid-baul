@@ -1,0 +1,15 @@
+:root{--txt-ast: #943131}
+
+.ast-t-bx {width: 480px; height: auto; margin: auto; position: relative; background: #111; border: 15px solid #222; outline: 1px solid var(--txt-ast); padding: 10px; outline-offset: -15px}
+
+.ast-t-tit {width: auto; height: auto; margin: auto; font-family: millgary; font-weight: bold; letter-spacing: 1px; color: var(--txt-ast); text-align: center; font-size: 28px; padding: 40px; text-transform: lowercase; line-height: 120%}
+
+.ast-t-line {width: 250px; height: 1px; margin: auto; background: var(--txt-ast)}
+
+.ast-t-co {width: auto; height: auto; margin: auto; padding: 40px; text-align: justify; margin-top: 20px; font-family: quicksand; color: #aaa; font-size: 12px; line-height: 150%; font-weight: 500}
+
+.ast-t-co b {color: var(--txt-ast)!important}
+
+.ast-t-dt {width: 420px; height: auto; margin: auto; padding: 10px; font-family: noto sans mono; color: #bbb; text-transform: uppercase; font-size: 9px; text-align: center; border-top: 1px solid var(--txt-ast); margin-top: 10px}
+
+.ast-t-dt b {color: var(--txt-ast); font-size: 13px}
